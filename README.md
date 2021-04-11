@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# My sad stats :(
+# My sad stats 😒
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=i-am-david-fernandez&count_private=true&show_icons=true)
 
