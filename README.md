@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 # My sad stats 😒
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=i-am-david-fernandez&count_private=true&show_icons=true)
+![My Stats](https://github-readme-stats.vercel.app/api?username=i-am-david-fernandez&count_private=true&show_icons=true&theme=dark)
 
-![My Languages](https://github-readme-stats.vercel.app/api/top-langs?username=i-am-david-fernandez&layout=default&exclude_repo=i-am-david-fernandez.github.io)
+![My Languages](https://github-readme-stats.vercel.app/api/top-langs?username=i-am-david-fernandez&layout=donut&exclude_repo=i-am-david-fernandez.github.io&theme=dark)
